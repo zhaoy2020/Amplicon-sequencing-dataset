@@ -8,3 +8,19 @@ Dataset contents:
 - Processed zOTUtables ( USEARCH pipelines)
 - Representative sequences and taxonomic assignments
 - Sample metadata including soil type, potato variety, and disease status.
+
+# Dependence
+
+## Install
+```bash
+git clone https://github.com/zhaoy2020/AlphaMicrobiome.git
+cd AlphaMicrobiome
+pip install -e .
+```
+
+## Demo
+```python
+from microbiome import amplicon, diversity, stats
+
+help(amplicon)
+```
