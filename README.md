@@ -4,7 +4,7 @@ Amplicon sequencing dataset of potato rhizosphere microbiomes collected from maj
 
 Dataset contents:
 
-* Raw FASTQ files (Illumina MiSeq platform) targeting the bacterial 16S rRNA gene, deposited in the SRA database
+* Raw FASTQ files (Illumina MiSeq platform) targeting the bacterial 16S rRNA gene, deposited in the SRA database under accession number PRJNA1449797 [https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA1449797](https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA1449797)
 * Processed zOTU tables generated using the USEARCH pipeline
 * Representative sequences and corresponding taxonomic assignments
 * Sample metadata, including soil type, cropping system, disease occurrence, potato cultivar, and other relevant variables
