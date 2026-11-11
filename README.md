@@ -28,4 +28,4 @@ help(amplicon)
 ```
 
 # Cite
-
+[Zhao, Y., Chen, W., Shen, H., Xu, Y., Wang, Z., Wang, Q., 2026. Amplicon sequencing dataset of rhizosphere microbiomes associated with potato cultivation in Southwest China. Scientific Data. https://doi.org/10.1038/s41597-026-08622-0.](https://www.nature.com/articles/s41597-026-08622-0#citeas)
